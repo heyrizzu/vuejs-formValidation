@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Rizwan",
+      "email": "therizwantayyab@gmail.com",
+      "password": "Rizwan12",
+      "id": 1
+    },
+    {
+      "name": "Sufyan",
+      "email": "thesufyantayyab@gmail.com",
+      "password": "Sufyan12",
+      "id": 2
+    },
+    {
+      "name": "Rizzu",
+      "email": "test43383483@gmail.com",
+      "password": "5892735fj",
+      "id": 3
+    },
+    {
+      "name": "Luqman",
+      "email": "luqman3827@gmail.com",
+      "password": "sjhf2718",
+      "id": 4
+    },
+    {
+      "name": "Rizzu",
+      "email": "therizwantayyab@gmail.com",
+      "password": "Rizzu12",
+      "id": 5
+    },
+    {
+      "name": "ALi",
+      "email": "ali@test.com",
+      "password": "fjsd12",
+      "id": 6
+    },
+    {
+      "name": "FIx",
+      "email": "fix@test.com",
+      "password": "cmsdwdm2233",
+      "id": 7
+    }
+  ]
+}
